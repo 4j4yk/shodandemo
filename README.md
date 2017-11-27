@@ -13,6 +13,7 @@
 * [maps](https://maps.shodan.io/#16.720385051693988/3.515625/3/pirate/product:MySQL)
 * [exploits](https://exploits.shodan.io/?q=TP-Link)
 * [images](https://www.shodan.io/search?query=has_screenshot%3Atrue+authentication+disabled)
+* [Default access](https://www.shodan.io/search?query=country%3ATN+%22orange%22)
 
 ### shodan CLi 
 prerequisite  -
