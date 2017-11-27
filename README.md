@@ -38,9 +38,9 @@ set shodan_apikey yourapikey
 set query "webcamxp"
 run
 ```
-![Step1](ss1.PNG)
-![Step2](ss2.PNG)
-![Step3](ss3.PNG)
+<img style="float: right;" src="ss1.PNG">
+<img style="float: right;" src="ss2.PNG">
+<img style="float: right;" src="ss3.PNG">
 
 analyze results
 * search netgear devices
