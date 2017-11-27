@@ -15,6 +15,10 @@
 * [images](https://www.shodan.io/search?query=has_screenshot%3Atrue+authentication+disabled)
 
 ### shodan CLi 
+prerequisite  -
+* [shodan account & API](https://account.shodan.io/) 
+* Kali 
+
 [instructions](https://cli.shodan.io/)
 
 ### shodan metasploit
@@ -38,7 +42,7 @@ run
 ![Step2](ss2.PNG)
 ![Step3](ss3.PNG)
 
-* analyze results
+analyze results
 * search netgear devices
 ```bash
 set query "401 authorization netgear"
