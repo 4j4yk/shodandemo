@@ -1,6 +1,8 @@
-# For Educational purpose only. 
+# For Educational purpose only.
 
 ## shodan - in class demo and lab for computer security management 
+
+![Shodan](https://blog.shodan.io/content/images/2015/02/shodan-logo-white.png "Shodan logo")
 
 ### Shodan Web Interfaces
 * [search query](https://www.shodan.io/search?query=Minecraft+Server+port%3A25565) 
@@ -32,6 +34,10 @@ set shodan_apikey yourapikey
 set query "webcamxp"
 run
 ```
+![Step1](ss1.PNG)
+![Step2](ss2.PNG)
+![Step3](ss3.PNG)
+
 * analyze results
 * search netgear devices
 ```bash
